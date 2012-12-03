@@ -1,0 +1,1 @@
+<script src="http://localhost/jsq/mystat.asp?style=counter"></script>
